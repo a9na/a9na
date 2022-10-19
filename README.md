@@ -1,5 +1,5 @@
 <img
-  src="(https://wakatime.com/@a9na)"
+  src="https://github-readme-stats.vercel.app/api/wakatime?a9na=USERNAME"
 />
 
 
