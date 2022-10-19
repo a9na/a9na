@@ -1,4 +1,8 @@
-### Hi there 👋
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?a9na=A9NA"
+/>
+
+
 
 <!--
 **a9na/a9na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
