@@ -9,7 +9,7 @@
  <div align ="left">
 <dd><dd><dd><dd><dd><dd><dd><dd><dd>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=376FC0EE&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=ffff&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG"/></a>
  
   </dd></dd></dd></dd></dd></dd></dd></dd></dd>
 
