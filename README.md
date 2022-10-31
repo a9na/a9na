@@ -24,7 +24,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 <h3>My skillset</h3>
 
-<table align="center" width="100%"><tr><td valign="top" width="50%">
+
 
 
 
@@ -36,7 +36,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
   
 </div>
 
-</td><td valign="top" width="50%">
+
 
 
 
@@ -46,13 +46,6 @@ Enthusiastic computer engineering student @ FERIT Osijek
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express&perline=5)](https://skillicons.dev)
   
 </div>
-
-</td></tr></table>
-
-
-
-
- <table align="center"><tr><td valign="top" width="100%">
  
 
 
@@ -63,9 +56,6 @@ Enthusiastic computer engineering student @ FERIT Osijek
   
 </div>
 
-</td>
-
-  </td></tr></table>
 
 
 
