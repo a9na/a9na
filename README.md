@@ -49,7 +49,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
   <h3>🌳 Other </h3>
 <div align="center">  
 
-  [![My Skills](https://skillicons.dev/icons?i=python,c,figma&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,figma&perline=5)](https://skillicons.dev)
   
 </div>
 
