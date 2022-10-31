@@ -5,14 +5,11 @@
   <br>
   <br>
 <div>
-<dd><dd><dl><dd><dl><dd>
- <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+<dd>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=376FC0EE&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG"/></a>
-   </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-   </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-
+ 
+  </dd>
 
 </div>
 
