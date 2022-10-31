@@ -4,14 +4,23 @@
   
   <br>
   <br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=376FC0EE&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG" /> enthusastic computer engineerign student @ FERIT Osijek</a>
+<div>
+ <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+ <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=376FC0EE&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG"/></a>
+   </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+   </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+
+
 </div>
 
 
 
-
-
+```
+Enthusiastic computer engineering student @ FERIT Osijek
+```
 
 
 [![wakatime](https://wakatime.com/badge/user/b1fe7a4c-068b-418f-9fa5-419b6600bb8e.svg)](https://wakatime.com/@b1fe7a4c-068b-418f-9fa5-419b6600bb8e)
