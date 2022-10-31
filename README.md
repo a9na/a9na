@@ -20,6 +20,53 @@ Enthusiastic computer engineering student @ FERIT Osijek
 ```
 
 
-[![wakatime](https://wakatime.com/badge/user/b1fe7a4c-068b-418f-9fa5-419b6600bb8e.svg)](https://wakatime.com/@b1fe7a4c-068b-418f-9fa5-419b6600bb8e)
+<table align="center"><tr><td valign="top" width="33%">
+
+
+
+  <h3>🌇 Frontend </h3>
+<div align="center">  
+
+  [![My Skills](https://skillicons.dev/icons?i=vue,javascript,scss,vite&perline=5)](https://skillicons.dev)
+  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+  <h3>🌆 Backend </h3>
+<div align="center">  
+
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express&perline=5)](https://skillicons.dev)
+  
+</div>
+
+<td valign="top" width="33%">
+
+
+
+  <h3>🌳 Other </h3>
+<div align="center">  
+
+  [![My Skills](https://skillicons.dev/icons?i=python,c,figma&perline=5)](https://skillicons.dev)
+  
+</div>
+
+</td>
+
+</td></tr></table>  
+
+<br/>  
+
+<h3>✌️ Connect with me  </h3>
+
+<div align="left">
+
+  [![wakatime](https://wakatime.com/badge/user/b1fe7a4c-068b-418f-9fa5-419b6600bb8e.svg)](https://wakatime.com/@b1fe7a4c-068b-418f-9fa5-419b6600bb8e)
+  
+</div>  
+
+
 
 
