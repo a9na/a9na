@@ -24,7 +24,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 <h3>My skillset</h3>
 
-<table align="center"><tr><td valign="top" width="50%">
+<table align="center" width="100%"><tr><td valign="top" width="50%">
 
 
 
