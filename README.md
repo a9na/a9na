@@ -24,7 +24,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 
 
-  <h3>🌇 Frontend </h3>
+  <h3>🌇<br>Frontend </h3>
 <div align="center">  
 
   [![My Skills](https://skillicons.dev/icons?i=vue,javascript,scss,vite&perline=3)](https://skillicons.dev)
@@ -35,7 +35,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 
 
-  <h3>🌆 Backend </h3>
+  <h3>🌆<br> Backend </h3>
 <div align="center">  
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,express&perline=5)](https://skillicons.dev)
