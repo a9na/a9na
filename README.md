@@ -16,11 +16,11 @@
 
 </div>
 
-
 ```
 Enthusiastic computer engineering student @ FERIT Osijek
 ```
 
+<h3>My skillset</h3>
 
 <table align="center"><tr><td valign="top" width="50%">
 
