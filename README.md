@@ -20,18 +20,18 @@ Enthusiastic computer engineering student @ FERIT Osijek
 ```
 
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="40%">
 
 
 
   <h3>🌇 Frontend </h3>
 <div align="center">  
 
-  [![My Skills](https://skillicons.dev/icons?i=vue,javascript,scss,vite&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue,javascript,scss,vite&perline=3)](https://skillicons.dev)
   
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
 
 
