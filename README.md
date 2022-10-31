@@ -1,11 +1,8 @@
-<div align="center">
+<div align="left">
 <div align="left">
 <img src="https://steamuserimages-a.akamaihd.net/ugc/446238782551007626/C229EF34B6B62AE2087EBDB3159F67E8E6442F06/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 500"/>
-</div>  
   
-  <br>
-  <br>
-<div align ="right">
+  <div align ="center">
 <dd><dd><dd><dd><dd><dd><dd><dd><dd>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=376FC0EE&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG"/></a>
@@ -13,6 +10,10 @@
   </dd></dd></dd></dd></dd></dd></dd></dd></dd>
 
 </div>
+
+</div>  
+  
+
 </div>
 
 
