@@ -43,8 +43,13 @@ Enthusiastic computer engineering student @ FERIT Osijek
   
 </div>
 
-<td valign="top" width="33%">
+</td></tr></table>
 
+
+
+
+ <table align="center"><tr><td valign="top" width="33%">
+ 
 
 
   <h3>🌳 Other </h3>
@@ -56,7 +61,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 </td>
 
-</td></tr></table>  
+  </td></tr></table>
 
 <br/>  
 
