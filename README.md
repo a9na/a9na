@@ -1,41 +1,34 @@
  <div align ="left">
-<dd><dd><dd><dd><dd><dd><dd><dd><dd>
+ 
+ <div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&color=ffff&multiline=true&width=435&lines=Hello!+I'm+Ana." alt="Typing SVG"/></a>
  
-  </dd></dd></dd></dd></dd></dd></dd></dd></dd>
 </div>
 
+
+<div>
+ 
 ```
 Enthusiastic computer engineering student @ FERIT Osijek
 ```
 
-<div>
-<img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" align="left" style="width: 50%"/>
+</div>
 
- <br/>
- 
- 
- 
- 
-</div>  
- 
-<br/>
+<img src="https://i.pinimg.com/originals/1a/bb/e9/1abbe9b61eac9e87c845c4f2e1ea1356.gif">
+
+
+</div>
+
+
 
 
 <div align="left"> 
+ 
+ <h3>My skillset</h3>
 
- 
- <br/>
- 
- 
- 
- 
-  <h3>
-   
-   
-   
-   🌇 Frontend </h3>
+
+  <h3>🌇 Frontend </h3>
 
  
 
