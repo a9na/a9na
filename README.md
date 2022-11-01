@@ -28,7 +28,8 @@ Enthusiastic computer engineering student @ FERIT Osijek
  <h3>My skillset</h3>
 
 
-  <h3>🌇 Frontend </h3>
+ 
+  <h3>🖼️ Frontend </h3>
 
  
 
@@ -43,7 +44,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 
 
-  <h3>🌆 Backend </h3>
+  <h3>🏗️ Backend </h3>
 <div align="left">  
 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
