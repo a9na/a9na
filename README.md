@@ -32,7 +32,7 @@ Enthusiastic computer engineering student @ FERIT Osijek
 
 <div align="left">  
 
-  [![My Skills](https://skillicons.dev/icons?i=vue,javascript,scss,tailwind,vite&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue,quasar,javascript,scss,tailwind,vite&perline=5)](https://skillicons.dev)
   
 </div>
 
