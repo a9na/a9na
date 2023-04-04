@@ -10,7 +10,7 @@
 <div>
  
 ```
-Enthusiastic computer engineering student @ FERIT Osijek
+Enthusiastic computer science student @ FERIT Osijek
 ```
 
 </div>
