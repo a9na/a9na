@@ -70,11 +70,9 @@ Enthusiastic computer science student @ FERIT Osijek
 <div align="left">
 
   [![wakatime](https://wakatime.com/badge/user/b1fe7a4c-068b-418f-9fa5-419b6600bb8e.svg)](https://wakatime.com/@b1fe7a4c-068b-418f-9fa5-419b6600bb8e)
-  
 <p> 
  
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anaiscoding)
-  
   </p>
 </div>  
 
