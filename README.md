@@ -15,7 +15,6 @@ Enthusiastic computer science student @ FERIT Osijek
 
 </div>
 
-<img src="https://i.pinimg.com/originals/1a/bb/e9/1abbe9b61eac9e87c845c4f2e1ea1356.gif">
 
 
 </div>
