@@ -67,7 +67,7 @@ Enthusiastic computer science student @ FERIT Osijek
 <div align="left">
 
   [![Wakatime](https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=Wakatime&logoColor=white)](https://wakatime.com/@a9na)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/anaiscoding)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/anaiscoding)
   [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/odetoliterature)
 </div>
 </div>  
