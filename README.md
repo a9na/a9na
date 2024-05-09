@@ -56,6 +56,7 @@ Workflow:
   [![Wakatime](https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=Wakatime&logoColor=white)](https://wakatime.com/@a9na)
   [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/odetoliterature)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/anaiscoding)
+  [![Strava](https://img.shields.io/badge/Strava-fff?style=for-the-badge&logo=Strava&logoColor=orange)](https://www.strava.com/athletes/113486741)
 
 </div>
 </div>  
