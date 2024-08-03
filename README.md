@@ -6,9 +6,9 @@
 
 </div>
 
-<h2>Software Engineer 👷🏻‍♀️⚙️</h3>
+<h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 <details>
-<summary><h3><strong> Meet Me! </strong> </h3><sub> (click to expand) </sub></summary
+<summary><strong> Meet Me! </strong><sub> (click to expand) </sub></summary
 Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design, and mathematics, with a strong commitment to excellence and innovation. 
 <br>
 👩‍💻 I thrive on solving intricate challenges and delivering innovative solutions that advance technological boundaries. 
@@ -60,7 +60,7 @@ Workflow:
 
 </h2>
 <details>
-<summary><h3><strong> Current focus </strong></h3> <sub> (click to expand) </sub></summary>
+<summary><strong> Current focus </strong> <sub> (click to expand) </sub></summary>
 <br>
 My B.S final project 📈
 <br>
