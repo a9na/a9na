@@ -11,7 +11,7 @@
 <details>
 <summary><strong> Meet Me! </strong> <sub> (click to expand) </sub></summary>
 <br>
-Hello! 🙋‍♀️ I am deeply passionate about engineering, programming, design, and mathematics, with a strong commitment to excellence and innovation. 
+Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design, and mathematics, with a strong commitment to excellence and innovation. 
 <br>
 👩‍💻 I thrive on solving intricate challenges and delivering innovative solutions that advance technological boundaries. 
 <br>
