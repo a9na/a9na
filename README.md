@@ -14,6 +14,8 @@ Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design,
 <br>
 👩‍💻 I thrive on solving intricate challenges and delivering innovative solutions that advance technological boundaries. 
 <br>
+🧮 My enthusiasm for knowledge also extends to tutoring, where I take great pleasure in helping others understand and appreciate the marvels of STEM. 
+<br>
 ⛑️ I also dedicate my free time to volunteering, guitar, engaging in sports etc., previously varsity volleyball and now long-distance running 
 and track & field, fostering a balanced and community-focused lifestyle. 🏃‍♀️
 <br>
