@@ -8,9 +8,9 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h3>
 
-<h3>
+
 <details>
-<summary><strong> Meet Me! </strong> <sub> (click to expand) </sub></summary>
+<summary><h3><strong> Meet Me! </strong> </h3><sub> (click to expand) </sub></summary
 <br>
 Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design, and mathematics, with a strong commitment to excellence and innovation. 
 <br>
@@ -21,7 +21,7 @@ and track & field, fostering a balanced and community-focused lifestyle. 🏃‍
 <br>
 I am committed to making impactful contributions through my work and collaborations. Let’s connect and make a difference together! 🚀
 </details>
-</h3>
+
 
 <h2 align="left">
 
@@ -62,15 +62,13 @@ Workflow:
 </p>
 
 </h2>
-<h3>
 <details>
-<summary><strong> Current focus </strong> <sub> (click to expand) </sub></summary>
+<summary><h3><strong> Current focus </strong></h3> <sub> (click to expand) </sub></summary>
 <br>
 My B.S final project 📈
 <br>
 30 days of Javascript @leetcode 🚀
 </details>
-</h3>
 
 <h3>🙋‍♀️ Connect with me  </h3>
 
