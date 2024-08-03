@@ -16,7 +16,6 @@ Hello! 🙋‍♀️ I am deeply passionate about engineering, programming, desi
 👩‍💻 I thrive on solving intricate challenges and delivering innovative solutions that advance technological boundaries. 
 <br>
 ⛑️ I also dedicate my free time to volunteering, guitar, engaging in sports etc., previously varsity volleyball and now long-distance running 
-<br>
 and track & field, fostering a balanced and community-focused lifestyle. 🏃‍♀️
 <br>
 I am committed to making impactful contributions through my work and collaborations. Let’s connect and make a difference together! 🚀
