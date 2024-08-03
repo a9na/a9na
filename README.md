@@ -61,7 +61,7 @@ Workflow:
 
 </h2>
 <details>
-<summary><strong> Current focus </strong> <sub> (click to expand) </sub></summary>
+<summary><strong> Current focus 🔎</strong> <sub> (click to expand) </sub></summary>
 <br>
 My B.S final project 📈
 <br>
