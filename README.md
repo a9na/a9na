@@ -65,6 +65,7 @@ Workflow:
 <summary><strong> Current focus </strong> <sub> (click to expand) </sub></summary>
 <br>
 My B.S final project 📈
+<br>
 30 days of Javascript @leetcode 🚀
 </details>
 
