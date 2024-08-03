@@ -61,6 +61,12 @@ Workflow:
 
 </h2>
 
+<details>
+<summary><strong> Current focus </strong> <sub> (click to expand) </sub></summary>
+<br>
+30 days of Javascript @leetcode 🚀
+</details>
+
 <h3>🙋‍♀️ Connect with me  </h3>
 
 <div align="left">
