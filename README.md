@@ -69,6 +69,8 @@ Working on my B.S final project 📈
 30 days of Javascript @leetcode 🚀
 <br>
 Studying up ✍🏻
+<br>
+Learning NeoVIM 🐢
 </details>
 
 <h3>🙋‍♀️ Connect with me  </h3>
