@@ -16,7 +16,7 @@ Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design,
 <br>
 🧮 My enthusiasm for knowledge also extends to tutoring, where I take great pleasure in helping others understand and appreciate the marvels of STEM. 
 <br>
-⛑️ I also dedicate my free time to volunteering, guitar, reading, video games, engaging in sports etc., previously varsity volleyball, and now long-distance running and track & field as well as mountain-climbing, fostering a balanced and community-focused lifestyle. 🏃‍♀️🧗‍♀️🚴‍♀️🏊‍♀️
+I also dedicate my free time to reading, engaging in sports etc., previously varsity volleyball, and now long-distance running and track & field fostering a balanced and community-focused lifestyle. 🏃‍♀️🧗‍♀️🚴‍♀️🏊‍♀️
 <br>
 I am committed to making impactful contributions through my work and collaborations. Let’s connect and make a difference together! 🚀
 </details>
