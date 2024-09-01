@@ -66,7 +66,7 @@ Workflow:
 <br>
 Working on my B.S final project 📈
 <br>
-30 days of Javascript @leetcode 🚀
+daily challenges @leetcode 🚀
 <br>
 Studying up ✍🏻
 <br>
