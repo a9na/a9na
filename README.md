@@ -73,7 +73,7 @@ Studying up ✍🏻
 Learning NeoVIM 🐢
 </details>
 
-<h3>🙋‍♀️ Connect with me  </h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Connect with me  </h3>
 
 <div align="left">
 
