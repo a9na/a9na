@@ -89,7 +89,7 @@ Learning NeoVIM 🐢
 </div>  
 <div>
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a9na&show_icons=true&theme=radical)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a9na&show_icons=true&theme=tokyonight)
  
 </div>
 
