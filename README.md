@@ -21,7 +21,7 @@ Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design,
 I am committed to making impactful contributions through my work and collaborations. Let’s connect and make a difference together! 🚀
 </details>
 
-
+<div>
 <h2 align="left">
 
 <p align="left">
@@ -58,9 +58,12 @@ Workflow:
   ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+</div>
 
 <details>
+ 
 <summary><strong> Current focus 🔎</strong> <sub> (click to expand) </sub></summary>
+
 <br>
 Working on my B.S final project 📈
 <br>
