@@ -83,6 +83,7 @@ Learning NeoVIM 🐢
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
   [![QuantConnect](https://img.shields.io/badge/QuantConnect-FF6600?style=for-the-badge&logo=quant&logoColor=white)](https://www.quantconnect.com/u/ana-novkovic)
+  <br>
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
   [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/odetoliterature)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/anaiscoding)
