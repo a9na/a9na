@@ -74,6 +74,60 @@ Studying up ✍🏻
 Learning NeoVIM 🐢
 </details>
 
+<h2> Experience </h2>
+
+<details>
+  <summary><strong>Find out more</strong></summary>
+
+  ## Bamboo Lab
+  **Frontend Developer Intern**  
+  *Sep 2024 - Present* · 3 mos  
+  Osijek, Osijek-Baranja, Croatia
+
+  ---
+
+  ## Quizlet
+  **Mathematics Content Contributor**  
+  *Sep 2024 - Present* · 3 mos  
+
+  <details>
+    <summary>Description</summary>
+    At Quizlet, I contribute mathematics content that aids in building comprehensive study materials for students. This involves creating, reviewing, and curating problem sets and flash cards, ensuring accuracy, clarity, and alignment with educational standards.
+  </details>
+
+  ---
+
+  ## Private Tutor
+  **Freelance**  
+  *Aug 2023 - Present* · 1 yr 4 mos  
+  Croatia  
+
+  <details>
+    <summary>Description</summary>
+    I provide private tutoring to students in various subjects, including mathematics, physics, programming (C, Python, JavaScript), information technology, computer networks, and languages (primarily Italian and German). My role includes designing customized lesson plans to address each student’s unique learning needs and helping them master complex concepts.
+  </details>
+
+  ---
+
+  ## Gutenberg Publications
+  **Proofreader**  
+  *May 2020 - Apr 2024* · 4 yrs  
+
+  <details>
+    <summary>Description</summary>
+    In my freelance work as a Proofreader with Gutenberg Publications, I have honed my skills in ensuring the accuracy and clarity of various written materials. My experience spans a wide range of content types, including academic papers, business documents, and marketing materials. This role has strengthened my analytical skills and attention to detail, as well as my ability to communicate effectively with clients.
+  </details>
+
+</details>
+
+
+## Other
+
+I teach here: [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
+<br>
+and write articles about software engineering and more here:  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
+
+
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Connect with me  </h3>
 
 <div align="left">
