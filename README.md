@@ -127,7 +127,9 @@ I teach here: [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=f
 <br>
 and write articles about software engineering and more here:  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 
-### Hobbies
+<details>
+ 
+<summary><strong> Hobbies </strong> <sub> (click to expand) </sub></summary>
 
 I enjoy reading, doing many sports, music (especially guitars) 📚🏄‍♀️🎸✨
 
@@ -138,6 +140,8 @@ I enjoy reading, doing many sports, music (especially guitars) 📚🏄‍♀️
 💌 Wanna know more about my hobbies?
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ananovkovic)
+
+</details>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Connect with me  </h3>
 
