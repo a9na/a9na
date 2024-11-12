@@ -74,7 +74,7 @@ Studying up ✍🏻
 Learning NeoVIM 🐢
 </details>
 
-<h2> Experience </h2>
+<h2> Experience 💼 </h2>
 
 <details>
   <summary><strong>Find out more</strong></summary>
