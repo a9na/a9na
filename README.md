@@ -131,6 +131,8 @@ and write articles about software engineering and more here:  [![Medium](https:/
  
 <summary><strong> Hobbies </strong> <sub> (click to expand) </sub></summary>
 
+<br>
+
 I enjoy reading, doing many sports, music (especially guitars) 📚🏄‍♀️🎸✨
 
 [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/odetoliterature)
