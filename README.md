@@ -120,6 +120,17 @@ Learning NeoVIM 🐢
 
 </details>
 
+<h2>Languages</h2>
+
+*Croatian 🇭🇷* · *English 🇬🇧* · *German 🇩🇪* · *Italian 🇮🇹*
+
+
+
+
+
+
+
+
 
 ## Other
 
