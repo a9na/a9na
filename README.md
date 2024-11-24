@@ -122,7 +122,7 @@ Learning NeoVIM 🐢
 
 <h2>Languages</h2>
 
-*Croatian 🇭🇷* · *English 🇬🇧* · *German 🇩🇪* · *Italian 🇮🇹*
+*Croatian 🇭🇷* · *English 🇬🇧* · *German 🇩🇪* · *Italian 🇮🇹* · *Spanish 🇪🇸*
 
 
 
