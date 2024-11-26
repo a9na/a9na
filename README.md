@@ -81,13 +81,13 @@ Learning NeoVIM 🐢
  
  ## Fiverr
   **Software Engineer**  
-  *Sep 2024 - Present* · 3 mos  
+  *Oct 2024 - Present* · 2 mos  
 
   ---
 
    ## Business Mentor
   **Mathematics Content Contributor**  
-  *Sep 2024 - Present* · 3 mos  
+  *Oct 2024 - Present* · 2 mos  
 
   ---
   
