@@ -79,7 +79,7 @@ Learning NeoVIM 🐢
 <details>
   <summary><strong>Find out more</strong></summary>
  
- ## Fiverr
+ ## Upwork
   **Software Engineer**  
   *Oct 2024 - Present* · 2 mos  
 
