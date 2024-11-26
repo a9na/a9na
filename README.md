@@ -78,7 +78,19 @@ Learning NeoVIM 🐢
 
 <details>
   <summary><strong>Find out more</strong></summary>
+ 
+ ## Fiverr
+  **Software Engineer**  
+  *Sep 2024 - Present* · 3 mos  
 
+  ---
+
+   ## Business Mentor
+  **Mathematics Content Contributor**  
+  *Sep 2024 - Present* · 3 mos  
+
+  ---
+  
   ## Bamboo Lab
   **Frontend Developer Intern**  
   *Sep 2024 - Present* · 3 mos  
@@ -92,7 +104,9 @@ Learning NeoVIM 🐢
 
   <details>
     <summary>Description</summary>
-    At Quizlet, I contribute mathematics content that aids in building comprehensive study materials for students. This involves creating, reviewing, and curating problem sets and flash cards, ensuring accuracy, clarity, and alignment with educational standards.
+    • Created and Curated High-Quality Math Content: Developed a wide range of interactive study materials, including problem sets, flashcards, and practice quizzes, to help students grasp complex mathematical concepts across various topics.
+    • Collaborated with Educators and Experts: Worked closely with educators and subject matter experts, to ensure content accuracy, relevance, and alignment with current educational standards and curriculum.
+    • Enhanced User Engagement and Learning Outcomes: Focused on creating engaging, accessible, and user-friendly math resources that improved student performance and made learning more effective for users of all levels.
   </details>
 
   ---
@@ -104,7 +118,9 @@ Learning NeoVIM 🐢
 
   <details>
     <summary>Description</summary>
-    I provide private tutoring to students in various subjects, including mathematics, physics, programming (C, Python, JavaScript), information technology, computer networks, and languages (primarily Italian and German). My role includes designing customized lesson plans to address each student’s unique learning needs and helping them master complex concepts.
+    • Giving lessons to students in the area of mathematics, physics, programming (C, Python, Javascript) as well as information technology and computer networks, and languages (mainly Italian and German)
+    • Developing comprehensive lesson plans that covered fundamental concepts, fostering a supportive learning environment to help students achieve academic success.
+    • Demonstrating leadership by mentoring students, encouraging personal and intellectual growth through clear guidance and motivation
   </details>
 
   ---
@@ -115,7 +131,9 @@ Learning NeoVIM 🐢
 
   <details>
     <summary>Description</summary>
-    In my freelance work as a Proofreader with Gutenberg Publications, I have honed my skills in ensuring the accuracy and clarity of various written materials. My experience spans a wide range of content types, including academic papers, business documents, and marketing materials. This role has strengthened my analytical skills and attention to detail, as well as my ability to communicate effectively with clients.
+    • Enhanced publication quality by meticulously proofreading and editing manuscripts, ensuring grammatical accuracy, consistency in style, and adherence to company formatting guidelines.
+    • Streamlined the editorial process by collaborating with authors, editors, and designers to deliver error-free and polished publications under tight deadlines.
+    • Maintained high editorial standards by leveraging knowledge of language, syntax, and publishing software, improving readability and reducing post-publication corrections.
   </details>
 
 </details>
