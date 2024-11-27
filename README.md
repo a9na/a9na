@@ -7,6 +7,8 @@
 </div>
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
+
+🔔 Subscribe to my newsletter here    [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 <details>
 <summary><strong> Meet Me! </strong><sub> (click to expand) </sub></summary>
 <br>
