@@ -8,7 +8,7 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
-🔔 Subscribe to my newsletter here  
+🔔 Subscribe to my newsletter here (a blend of math, finance, investing, and software insights)
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
