@@ -12,7 +12,7 @@
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
-🧑‍🏫🧮 Dveloping a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
+🧑‍🏫🧮 Developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
