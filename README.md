@@ -8,11 +8,13 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
-🔔 Subscribe to my newsletter here    [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
+🔔 Subscribe to my newsletter here  
 
-<br>
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
-Building a course Code & Play: Python for Kids, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
+🧑‍🏫🧮 Building a course Code & Play: Python for Kids, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
+
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
 <details>
 <summary><strong> Meet Me! </strong><sub> (click to expand) </sub></summary>
