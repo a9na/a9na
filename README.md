@@ -8,7 +8,18 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
-🔔 Subscribe to my newsletter here (a blend of math, finance, investing, and software insights):
+<strong>Founder @ Bytes & Bucks</strong>
+
+🔜
+  <details>
+    <summary>Description</summary>
+    A platform designed to share my expertise and passion for math, finance, investing, software development, tech and more. The website features insightful blogs, practical advice, interactive quizzes, downloadable apps and more, as well as a newsletter that blends knowledge from these fields. I created this space to inspire learning, growth, and innovation. I created this space to inspire learning, growth, and innovation.
+  </details>
+
+
+
+
+🔔 Subscribe to the newsletter here (a blend of math, finance, investing, and software insights):
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
