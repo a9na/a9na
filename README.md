@@ -162,7 +162,7 @@ Learning NeoVIM 🐢
 
 <h2>Languages</h2>
 
-*Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸*
+*Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
 
 
 
