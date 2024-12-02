@@ -165,6 +165,13 @@ Learning NeoVIM 🐢
 *Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
 
 
+<details>
+    <summary>
+        <em>Why do you know so many languages?</em>
+    </summary>
+ <br>
+    I come from Croatia, more specifically Dalmatia, where tourism thrives and I've been surrounded by it all my life.
+</details>
 
 
 
