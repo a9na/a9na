@@ -13,7 +13,8 @@
 🔜
   <details>
     <summary>Description</summary>
-    A platform designed to share my expertise and passion for math, finance, investing, software development, tech and more. The website features insightful blogs, practical advice, interactive quizzes, downloadable apps and more, as well as a newsletter that blends knowledge from these fields. I created this space to inspire learning, growth, and innovation. I created this space to inspire learning, growth, and innovation.
+   <br>
+    A platform designed to share my expertise and passion for math, finance, investing, software development, tech and more. The website features insightful blogs, practical advice, interactive quizzes, downloadable apps and more, as well as a newsletter that blends knowledge from these fields. I created this space to inspire learning, growth, and innovation. 
   </details>
 
 
