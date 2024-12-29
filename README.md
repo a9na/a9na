@@ -97,69 +97,7 @@ Studying up ✍🏻
 Learning NeoVIM 🐢
 </details>
 
-<h2> Experience 💼 </h2>
 
-<details>
-  <summary><strong>Find out more</strong></summary>
- 
- ## Upwork
-  **Software Engineer**  
-  *Oct 2024 - Present* · 2 mos  
-
-  ---
-
-   ## Business Mentor
-  **Mathematics Content Contributor**  
-  *Oct 2024 - Present* · 2 mos  
-
-  ---
-  
-  ## Bamboo Lab
-  **Frontend Developer Intern**  
-  *Sep 2024 - Present* · 3 mos  
-  Osijek, Osijek-Baranja, Croatia
-
-  ---
-
-  ## Quizlet
-  **Mathematics Content Contributor**  
-  *Sep 2024 - Present* · 3 mos  
-
-  <details>
-    <summary>Description</summary>
-    • Created and Curated High-Quality Math Content: Developed a wide range of interactive study materials, including problem sets, flashcards, and practice quizzes, to help students grasp complex mathematical concepts across various topics.
-    • Collaborated with Educators and Experts: Worked closely with educators and subject matter experts, to ensure content accuracy, relevance, and alignment with current educational standards and curriculum.
-    • Enhanced User Engagement and Learning Outcomes: Focused on creating engaging, accessible, and user-friendly math resources that improved student performance and made learning more effective for users of all levels.
-  </details>
-
-  ---
-
-  ## Private Tutor
-  **Freelance**  
-  *Aug 2023 - Present* · 1 yr 4 mos  
-  Croatia  
-
-  <details>
-    <summary>Description</summary>
-    • Giving lessons to students in the area of mathematics, physics, programming (C, Python, Javascript) as well as information technology and computer networks, and languages (mainly Italian and German)
-    • Developing comprehensive lesson plans that covered fundamental concepts, fostering a supportive learning environment to help students achieve academic success.
-    • Demonstrating leadership by mentoring students, encouraging personal and intellectual growth through clear guidance and motivation
-  </details>
-
-  ---
-
-  ## Gutenberg Publications
-  **Proofreader**  
-  *May 2020 - Apr 2024* · 4 yrs  
-
-  <details>
-    <summary>Description</summary>
-    • Enhanced publication quality by meticulously proofreading and editing manuscripts, ensuring grammatical accuracy, consistency in style, and adherence to company formatting guidelines.
-    • Streamlined the editorial process by collaborating with authors, editors, and designers to deliver error-free and polished publications under tight deadlines.
-    • Maintained high editorial standards by leveraging knowledge of language, syntax, and publishing software, improving readability and reducing post-publication corrections.
-  </details>
-
-</details>
 
 <h2>Languages</h2>
 
