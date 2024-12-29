@@ -8,7 +8,7 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
-<strong>Founder @ Bytes & Bucks</strong>
+<strong>Bytes & Bucks</strong>
 
 🔜
   <details>
