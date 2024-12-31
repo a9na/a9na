@@ -20,7 +20,7 @@
 
 
 
-🔔 Subscribe to the newsletter here (a blend of math, finance, investing, and software insights):
+🔔 Subscribe to the newsletter here (a blend of math, finance, investing, and software and data science insights):
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
