@@ -69,7 +69,6 @@ Workflow:
 </div>
 
 <div>
-<h2 align="left">
 
 
 
