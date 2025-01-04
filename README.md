@@ -48,6 +48,7 @@ Workflow:
 </div>
 </div>
 
+<strong> Bytes & Bucks </strong>
 
 🔔 Subscribe to my newsletter here (a blend of math, finance and software and data science insights):
 
