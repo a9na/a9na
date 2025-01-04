@@ -38,6 +38,24 @@ SWE Stack: </p>
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+  <p align="left">
+Data Science Stack: </p>
+ <div>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+
+ </div>
+<div>
+
+ ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+ ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=&logoColor=white)
+
+</div>
+</div>
+
 Workflow: 
  
   ![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -47,6 +65,11 @@ Workflow:
 
 </div>
 </div>
+
+<div>
+<h2 align="left">
+
+
 
 <strong> Bytes & Bucks </strong>
 
