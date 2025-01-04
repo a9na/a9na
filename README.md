@@ -8,19 +8,7 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
-<strong>Bytes & Bucks</strong>
-
-🔜
-  <details>
-    <summary>Description</summary>
-   <br>
-    A platform designed to share my expertise and passion for math, finance, investing, software development, tech and more. The website features insightful blogs, practical advice, interactive quizzes, downloadable apps and more, as well as a newsletter that blends knowledge from these fields. I created this space to inspire learning, growth, and innovation. 
-  </details>
-
-
-
-
-🔔 Subscribe to the newsletter here (a blend of math, finance, investing, and software and data science insights):
+🔔 Subscribe to my newsletter here (a blend of math, finance and software and data science insights):
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
@@ -117,32 +105,14 @@ I teach here: [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=f
 <br>
 and write articles about data science, software engineering and more here:  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 
-<details>
- 
-<summary><strong> Hobbies </strong> <sub> (click to expand) </sub></summary>
-
-<br>
-
-I enjoy reading, doing many sports, music (especially guitars) 📚🏄‍♀️🎸✨
-
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/odetoliterature)
-  [![Strava](https://img.shields.io/badge/Strava-fff?style=for-the-badge&logo=Strava&logoColor=orange)](https://www.strava.com/athletes/113486741)
- [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@anadoesthings?utm_source=user-menu)
-
-💌 Wanna know more about my hobbies?
-
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ananovkovic)
-
-</details>
-
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Connect with me  </h3>
 
 <div align="left">
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-novkovic/)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/anaiscoding)
+  
 <br>
-<br>
+
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
   [![QuantConnect](https://img.shields.io/badge/QuantConnect-FF6600?style=for-the-badge&logo=quant&logoColor=white)](https://www.quantconnect.com/u/ana-novkovic)
