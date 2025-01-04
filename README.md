@@ -8,33 +8,6 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
-🔔 Subscribe to my newsletter here (a blend of math, finance and software and data science insights):
-
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
-
-📚 My book: <strong>"The Everyday Equation: How Math Shapes Our Lives"</strong>. It reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily. 
-
-<strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
-
-
-🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
-
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
-
-<details>
-<summary><strong> Meet Me! </strong><sub> (click to expand) </sub></summary>
-<br>
-Hi! 🙋‍♀️ I am deeply passionate about engineering, programming, design, mathematics and finance, with a strong commitment to excellence and innovation. 
-<br>
-👩‍💻 I thrive on solving intricate challenges and delivering innovative solutions that advance technological boundaries. 
-<br>
-🧮 My enthusiasm for knowledge also extends to tutoring, where I take great pleasure in helping others understand and appreciate the marvels of STEM. 
-<br>
-⛑️ I also dedicate my free time to volounteering, guitar, reading, video games, engaging in sports etc., varsity volleyball, and now long-distance running, track & field, dancing, cheerleading, fostering a balanced and community-focused lifestyle. 🏃‍♀️🧗‍♀️🚴‍♀️🏊‍♀️
-<br>
-I am committed to making impactful contributions through my work and collaborations. Let’s connect and make a difference together! 🚀
-</details>
-
 <div>
 <h2 align="left">
 
@@ -74,18 +47,20 @@ Workflow:
 </div>
 </div>
 
-<details>
- 
-<summary><strong> Current focus 🔎</strong> <sub> (click to expand) </sub></summary>
 
-<br>
-Working on my B.S final project 📈
-<br>
-daily challenges @leetcode 🚀
-<br>
-Learning more about data science 
-<br>
-</details>
+🔔 Subscribe to my newsletter here (a blend of math, finance and software and data science insights):
+
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
+
+📚 My book: <strong>"The Everyday Equation: How Math Shapes Our Lives"</strong>. It reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily. 
+
+<strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
+
+
+🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
+
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
+
 
 
 
@@ -94,16 +69,15 @@ Learning more about data science
 *Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
 
 
-
-
-
-
-
 ## Other
 
 I teach here: [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 <br>
 and write articles about data science, software engineering and more here:  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
+
+<h3> Hobbies </h3>
+
+*reading* · *writing* · *volounteering* · *sports (volleyball 10 years, track & field)* · *guitar* · *gaming*
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Connect with me  </h3>
 
@@ -111,7 +85,6 @@ and write articles about data science, software engineering and more here:  [![M
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-novkovic/)
   
-<br>
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
