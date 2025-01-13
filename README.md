@@ -78,10 +78,19 @@ Workflow:
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
+<br>
+
 📚 My book: <strong>"The Everyday Equation: How Math Shapes Our Lives"</strong>. It reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily. 
 
 <strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
+<br>
+
+Check out my podcast <strong>Empowerment Equation</strong> here:
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
+
+<br>
 
 🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
 
