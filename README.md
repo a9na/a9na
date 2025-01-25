@@ -94,6 +94,8 @@ Check out my podcast <strong>Empowerment Equation</strong> here:
 
 <strong>BrightLabs</strong> 
 
+> *Teaching programming and the wonders of STEM*
+
 Check out some useful resources !
 
 [![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
