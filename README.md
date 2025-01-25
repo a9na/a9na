@@ -104,7 +104,10 @@ Check out some useful resources !
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
+<strong>My Articles</strong> 
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
 
 <h2>Languages</h2>
@@ -112,10 +115,7 @@ Check out some useful resources !
 *Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
 
 
-<strong>My Articles</strong> 
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
 
 <h3> Hobbies </h3>
