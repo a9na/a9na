@@ -108,16 +108,14 @@ Check out some useful resources !
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
-<strong>My Articles</strong> 
+<h3> Author of many articles on Medium and dev.to</h3>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
 
 
-
-
-<strong>Volounteering</strong> (IAESTE, IEEE, Red Cross, Home for the elderly, running and other sports charity events, many financial literacy and environmental causes projects)
+<h3>Volounteering</h3> (IAESTE, IEEE, Red Cross, Home for the elderly, running and other sports charity events, many financial literacy and environmental causes projects)
 
 
 <h3> Hobbies </h3>
