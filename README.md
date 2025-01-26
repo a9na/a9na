@@ -119,7 +119,7 @@ Check out some useful resources !
 
 
 
-<h3>Volounteering</h3> (IAESTE, IEEE, Red Cross, Home for the elderly, running and other sports charity events, many financial literacy and environmental causes projects)
+<h3>Volounteering</h3> (IAESTE, IEEE, Red Cross, home for the elderly, healthcare organizations, local hospital, running and other sports charity events, many financial literacy and environmental causes projects)
 
 
 <h3> Hobbies </h3>
