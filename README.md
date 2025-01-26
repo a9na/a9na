@@ -8,6 +8,9 @@
 
 <h2>Software Engineer 👷🏻‍♀️⚙️</h2>
 
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-novkovic/)
+
+
 <div>
 <h2 align="left">
 
@@ -121,12 +124,9 @@ Check out some useful resources !
 
 *reading* · *writing* · *volounteering* · *sports (volleyball 10 years, track & field)* · *guitar* · *gaming* · *book reviewing/blogging* · *art* · *journaling*
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Connect with me  </h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Some of my other accounts  </h3>
 
-<div align="left">
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-novkovic/)
-  
+<div align="left">  
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
