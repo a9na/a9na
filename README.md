@@ -65,12 +65,13 @@ Workflow:
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+<h2>Languages</h2>
+
+*Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
+
 </div>
-</div>
 
-<div>
-
-
+<br>
 
 <strong> Bytes & Bucks </strong>
 
@@ -110,12 +111,10 @@ Check out some useful resources !
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
 
-<h2>Languages</h2>
-
-*Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
 
 
 
+<strong>Volounteering</strong> (IAESTE, IEEE, Red Cross, Home for the elderly, running and other sports charity events, many financial literacy and environmental causes projects)
 
 
 <h3> Hobbies </h3>
