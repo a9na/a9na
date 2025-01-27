@@ -86,9 +86,10 @@ Workflow:
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
-<br>
 
-📚 My book: <strong>"The Everyday Equation: How Math Shapes Our Lives"</strong>. It reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily. 
+<h3>Author of "The Everyday Equation"</h3>
+
+📚 Wrote a book called "The Everyday Equation: How Math Shapes Our Lives" that reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily.
 
 <strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
@@ -122,7 +123,7 @@ Check out some useful resources !
 <h3>Volounteering</h3> (IAESTE, IEEE, Red Cross, home for the elderly, healthcare organizations, local hospital, running and other sports charity events, many financial literacy and environmental causes projects)
 
 
-<h3> Hobbies </h3>
+<h3>Hobbies</h3>
 
 *reading* · *writing* · *volounteering* · *sports (volleyball 10 years, track & field)* · *guitar* · *gaming* · *book reviewing/blogging* · *art* · *journaling*
 
