@@ -82,7 +82,7 @@ Workflow:
 
 <h2>My Projects</h2>
 
-<h3>BrightLabs</h3> 
+<h3>• BrightLabs</h3> 
 
 > *Teaching programming and the wonders of STEM*
 
@@ -95,14 +95,14 @@ Check out some useful resources !
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
 
-<h3>Author of "The Everyday Equation"</h3>
+<h3>• Author of "The Everyday Equation"</h3>
 
 • Wrote a book called "The Everyday Equation: How Math Shapes Our Lives" that reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily.
 
 <strong>📚 Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
 
-<h3>Podcast Host and Director</h3>
+<h3>• Podcast Host and Director</h3>
 
 • Built a podcast called "Empowerment Equation" which focuses on applied math, data science, econometrics and more.
 
@@ -115,13 +115,13 @@ Check out some useful resources !
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
 
-<h3> Bytes & Bucks </h3>
+<h3>• Bytes & Bucks </h3>
 
 🔔 Subscribe to the newsletter here (a blend of math, finance and software and data science insights):
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
-<h3> Author of many articles on Medium and dev.to</h3>
+<h3>Author of many articles on Medium and dev.to</h3>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
