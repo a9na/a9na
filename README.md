@@ -78,8 +78,9 @@ Workflow:
 
 </div>
 
-<br>
 
+
+<h2>My Projects</h2>
 
 <h3>BrightLabs</h3> 
 
@@ -113,7 +114,6 @@ Check out some useful resources !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
-<br>
 
 <h3> Bytes & Bucks </h3>
 
