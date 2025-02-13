@@ -80,11 +80,18 @@ Workflow:
 
 <br>
 
-<strong> Bytes & Bucks </strong>
 
-🔔 Subscribe to my newsletter here (a blend of math, finance and software and data science insights):
+<h3>BrightLabs</h3> 
 
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
+> *Teaching programming and the wonders of STEM*
+
+Check out some useful resources !
+
+[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
+
+🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
+
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
 
 <h3>Author of "The Everyday Equation"</h3>
@@ -108,17 +115,11 @@ Workflow:
 
 <br>
 
-<strong>BrightLabs</strong> 
+<h3> Bytes & Bucks </h3>
 
-> *Teaching programming and the wonders of STEM*
+🔔 Subscribe to the newsletter here (a blend of math, finance and software and data science insights):
 
-Check out some useful resources !
-
-[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
-
-🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
-
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
+[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
 <h3> Author of many articles on Medium and dev.to</h3>
 
@@ -127,7 +128,7 @@ Check out some useful resources !
 
 
 
-<h3>Volounteering</h3> (IAESTE, IEEEXtreme participation, Red Cross, home for the elderly, healthcare organizations, local hospital, running and other sports charity events, many financial literacy and environmental causes projects)
+<h3>Volounteering</h3> (IAESTE, IEEEXtreme participation, Red Cross, home for the elderly, healthcare organizations, local hospital, fundraising, language teaching, running and other sports charity events, many financial literacy and environmental causes projects)
 
 
 <h3>Hobbies</h3>
