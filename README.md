@@ -82,17 +82,29 @@ Workflow:
 
 <h2>My Projects</h2>
 
+<h3>• Fiscus</h3> 
+<p>Web application for personal finance management built as part of a scientific paper on commercial app development and financial habits.</p>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na/fiscus)
+ 
+<h3>• Ant Colony Optimization Algorithm Simulation</h3> 
+<p>A sophisticated simulation of the Ant Colony Optimization algorithm that employs artificial ants to dynamically navigate a graph, demonstrating emergent pathfinding behaviors through pheromone-based decision-making and iterative exploration strategies.</p>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na/ant-colony-optimization)
+
+<h2>Other notable projects</h2>
+
 <h3>• BrightLabs</h3> 
 
-> *Teaching programming and the wonders of STEM*
-
-Check out some useful resources !
-
-[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
+*Teaching programming and the wonders of STEM*
 
 🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
+
+Check out some other useful resources here !
+
+[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
 
 
 <h3>• Author of "The Everyday Equation"</h3>
@@ -116,6 +128,8 @@ Check out some useful resources !
 
 
 <h3>• Bytes & Bucks </h3>
+
+[![WordPress](https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge)](https://bytesandbucks4.wordpress.com)
 
 🔔 Subscribe to the newsletter here (a blend of math, finance and software and data science insights):
 
