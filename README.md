@@ -92,6 +92,11 @@ Workflow:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na/ant-colony-optimization)
 
+<h3>Car Shop Web App</h3>
+<p>This project is a modern and sleek car shop mock-up web application tailored to highlight the services and offerings of a car shop. It showcases the powerful capabilities of Quasar for creating high-quality web applications. Leveraging Quasar's robust framework allows for building a responsive and cross-platform Vue.js application, ensuring a seamless and engaging user experience across various devices.</p>
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na/carshop-quasar-app)
+
 <h2>Other notable projects</h2>
 
 <h3>• BrightLabs</h3> 
