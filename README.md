@@ -128,7 +128,7 @@ Check out some other useful resources here !
 
 • Developed episode structure, including scripting and editing, to ensure engaging and informative discussions.
 
-🎙️ Listen to the NEW episode Understanding Panel Data Models here !
+🎙️ Listen to the NEW episode Data-Driven Decision-Making here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
