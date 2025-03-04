@@ -97,6 +97,8 @@ Workflow:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na/carshop-quasar-app)
 
+and much more!
+
 <h2>Other notable projects</h2>
 
 <h3>• BrightLabs</h3> 
