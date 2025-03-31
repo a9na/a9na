@@ -120,13 +120,15 @@ Empowering the next generation through programming, math, innovation & more.
 
 <h3>• The Everyday Equation: How Math Shapes Our Lives 📚</h3>
 
-• The Everyday Equation: How Math Shapes Our Lives takes you on a journey through the beauty of mathematics, algorithms, and computer science—showing how they shape our world in ways you never imagined. From nature’s stunning patterns to the power of AI and the technology we use every day, this book uncovers the elegance and impact of math in the systems that drive our lives.
+The Everyday Equation: How Math Shapes Our Lives takes you on a journey through the beauty of mathematics, algorithms, and computer science—showing how they shape our world in ways you never imagined. From nature’s stunning patterns to the power of AI and the technology we use every day, this book uncovers the elegance and impact of math in the systems that drive our lives.
 
 
 <strong>Curious? Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
 
 <h3>• Empowerment Equation podcast</h3>
+
+Empowerment Equation explores the world of applied math, data science, and econometrics, showing how these fields empower data-driven decision-making. We break down complex concepts and demonstrate how to apply them in real-world scenarios, helping you unlock the power of numbers to solve problems and drive innovation.
 
 🎙️ Listen to the NEW episode Data-Driven Decision-Making here !
 
