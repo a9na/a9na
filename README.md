@@ -125,14 +125,11 @@ Check out some other useful resources here !
 <strong>📚 Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
 
-<h3>• Podcast Host and Director</h3>
-
-• Built a podcast called "Empowerment Equation" which focuses on applied math, data science, econometrics and more.
+<h3>• Empowerment Equation podcast</h3>
 
 🎙️ Listen to the NEW episode Data-Driven Decision-Making here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
-
 
 <h3>• Bytes & Bucks </h3>
 
@@ -142,7 +139,7 @@ Check out some other useful resources here !
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
-<h3>Author of many articles on Medium and dev.to</h3>
+<h3>Read my articles on Medium and dev.to</h3>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
