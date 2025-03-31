@@ -104,7 +104,7 @@ and much more!-->
 
 <h2>Some of my projects</h2>
 
-<h3>• BrightLabs 🧪</h3> 
+<h3>• Bright Labs 🧪</h3> 
 
 Empowering the next generation through programming, math, innovation & more.
 
