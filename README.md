@@ -122,7 +122,7 @@ Empowering the next generation through programming, math, innovation & more.
 
 • Wrote a book called "The Everyday Equation: How Math Shapes Our Lives" that reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily.
 
-<strong>📚 Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
+<strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
 
 <h3>• Empowerment Equation podcast</h3>
