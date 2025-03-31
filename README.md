@@ -144,14 +144,15 @@ Check out some other useful resources here !
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
-
-
-<h3>Volounteering</h3> (IAESTE, IEEEXtreme participation, Red Cross, home for the elderly, healthcare organizations, local hospital, fundraising, language teaching, running and other sports charity events, many financial literacy and environmental causes projects)
-
-
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hobbies</h3>
 
 *reading* · *writing* · *volounteering* · *sports (volleyball 10 years, track & field)* · *guitar* · *gaming* · *book reviewing/blogging* · *art* · *journaling*
+
+
+Always a committed volunteer and humanitarian, I believe in using leadership, technology and knowledge as forces for good. Let’s connect and create something meaningful! 🚀
+
+
+
 
 <!--<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Some of my other accounts  </h3>
 
