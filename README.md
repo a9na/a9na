@@ -106,16 +106,16 @@ and much more!-->
 
 <h3>• BrightLabs</h3> 
 
-*Teaching programming and the wonders of STEM*
+Empowering the next generation through programming, math, innovation & more.
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bright-labs)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
+[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
+
 
 🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
 
-Check out some other useful resources here !
 
-[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
 
 
 <h3>• Author of "The Everyday Equation"</h3>
