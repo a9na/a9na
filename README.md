@@ -118,7 +118,7 @@ Empowering the next generation through programming, math, innovation & more.
 
 
 
-<h3>•The Everyday Equation: How Math Shapes Our Lives 📚</h3>
+<h3>• The Everyday Equation: How Math Shapes Our Lives 📚</h3>
 
 • The Everyday Equation: How Math Shapes Our Lives takes you on a journey through the beauty of mathematics, algorithms, and computer science—showing how they shape our world in ways you never imagined. From nature’s stunning patterns to the power of AI and the technology we use every day, this book uncovers the elegance and impact of math in the systems that drive our lives.
 
