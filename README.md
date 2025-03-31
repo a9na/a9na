@@ -15,6 +15,7 @@
 </a>
 
 
+<!--  
 <div>
 <h2 align="left">
 
@@ -70,17 +71,19 @@ Workflow:
   ![VISUAL STUDIO](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+-->
 
 <h2>Languages</h2>
 
-*Croatian 🇭🇷 (Native)* · *English 🇬🇧 (C2)* · *German 🇩🇪 (B2)* · *Italian 🇮🇹* · *Spanish 🇪🇸* · *Czech 🇨🇿*
+Croatian 🇭🇷 (Native) · English 🇬🇧 (C2) · German 🇩🇪 (B2) · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿
 
 </div>
 
 
 
-<h2>My Projects</h2>
+<!--<h2>My Projects</h2>
 
 <h3>• Fiscus</h3> 
 <p>Web application for personal finance management built as part of a scientific paper on commercial app development and financial habits.</p>
@@ -97,9 +100,9 @@ Workflow:
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na/carshop-quasar-app)
 
-and much more!
+and much more!-->
 
-<h2>Other notable projects</h2>
+<h2>Some of my projects</h2>
 
 <h3>• BrightLabs</h3> 
 
@@ -149,11 +152,11 @@ Check out some other useful resources here !
 <h3>Volounteering</h3> (IAESTE, IEEEXtreme participation, Red Cross, home for the elderly, healthcare organizations, local hospital, fundraising, language teaching, running and other sports charity events, many financial literacy and environmental causes projects)
 
 
-<h3>Hobbies</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hobbies</h3>
 
 *reading* · *writing* · *volounteering* · *sports (volleyball 10 years, track & field)* · *guitar* · *gaming* · *book reviewing/blogging* · *art* · *journaling*
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Some of my other accounts  </h3>
+<!--<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Some of my other accounts  </h3>
 
 <div align="left">  
 
@@ -163,7 +166,7 @@ Check out some other useful resources here !
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
   
 </div>
-</div>  
+</div>  -->
 <div>
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a9na&show_icons=true&theme=tokyonight)
