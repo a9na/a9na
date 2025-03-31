@@ -104,7 +104,7 @@ and much more!-->
 
 <h2>Some of my projects</h2>
 
-<h3>• BrightLabs</h3> 
+<h3>• BrightLabs 🧪</h3> 
 
 Empowering the next generation through programming, math, innovation & more.
 
@@ -118,7 +118,7 @@ Empowering the next generation through programming, math, innovation & more.
 
 
 
-<h3>• Author of "The Everyday Equation"</h3>
+<h3>• Author of "The Everyday Equation" 📚</h3>
 
 • Wrote a book called "The Everyday Equation: How Math Shapes Our Lives" that reveals the beauty of mathematics, algorithms, and computer science in shaping our lives. From nature's patterns to AI and everyday technology, it uncovers the elegance and impact of math in the systems and innovations we rely on daily.
 
