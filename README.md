@@ -118,13 +118,18 @@ Empowering the next generation through programming, math, innovation & more.
 
 
 
-<h3>• The Everyday Equation: How Math Shapes Our Lives 📚</h3>
+<h3>• Author 📚</h3>
+
+<strong>🧮 The Everyday Equation: How Math Shapes Our Lives</strong>
 
 The Everyday Equation: How Math Shapes Our Lives takes you on a journey through the beauty of mathematics, algorithms, and computer science—showing how they shape our world in ways you never imagined. From nature’s stunning patterns to the power of AI and the technology we use every day, this book uncovers the elegance and impact of math in the systems that drive our lives.
 
 
 <strong>Curious? Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
+<strong>📝 My scientific papers</strong>
+
+🏗️
 
 <h3>• Empowerment Equation podcast</h3>
 
