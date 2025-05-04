@@ -77,7 +77,7 @@ Workflow:
 
 <h2>Languages</h2>
 
-Croatian 🇭🇷 (Native) · English 🇬🇧 (C2) · German 🇩🇪 (B2) · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿
+Croatian 🇭🇷 (Native) · English 🇬🇧 (C2) · German 🇩🇪 · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿 · Korean 🇰🇷
 
 </div>
 
@@ -113,7 +113,7 @@ Empowering the next generation through programming, math, innovation & more.
 [![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
 
 
-🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. 
+<!--🧑‍🏫🧮 Currently developing a course <strong>Code & Play: Python for Kids</strong>, that teaches kids the wonders of computer science and programming using Python, aimed at inspiring the next generation of coders by making computer science approachable, creative, and exciting. -->
 
 
 
