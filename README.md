@@ -77,7 +77,7 @@ Workflow:
 
 <h2>Languages</h2>
 
-Croatian 🇭🇷 (Native) · English 🇬🇧 (C2) · German 🇩🇪 · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿 · Korean 🇰🇷
+Croatian 🇭🇷 (Native) · English 🇬🇧 (C2 Certified) · German 🇩🇪 · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿 · Korean 🇰🇷
 
 </div>
 
