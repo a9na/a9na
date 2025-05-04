@@ -156,7 +156,7 @@ Welcome to Bytes & Bucks – where math, finance, software, and data science int
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hobbies</h3>
 
-*reading* · *writing* · *volounteering* · *sports (volleyball 10 years, track & field)* · *guitar* · *gaming* · *book reviewing/blogging* · *art* · *journaling*
+*reading* · *writing* · *volounteering* · *sports (volleyball 10+ years, track & field)* · *guitar* · *gaming* · *book reviewing/blogging* · *art* · *journaling*
 
 
 Always a committed volunteer and humanitarian, I believe in using leadership, technology and knowledge as forces for good. Let’s connect and create something meaningful! 🚀
