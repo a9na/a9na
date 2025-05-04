@@ -177,8 +177,8 @@ Always a committed volunteer and humanitarian, I believe in using leadership, te
 </div>  -->
 <div>
  
-<!--![giphy](https://github.com/user-attachments/assets/46be90d1-9122-40d8-88a5-f6d1b8e2ec97)̣-->    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a9na&show_icons=true&theme=tokyonight) 
+![giphy](https://github.com/user-attachments/assets/46be90d1-9122-40d8-88a5-f6d1b8e2ec97)̣   
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=a9na&show_icons=true&theme=tokyonight)-->     
 
  
 </div>
