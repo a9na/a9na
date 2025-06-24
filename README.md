@@ -135,7 +135,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 Empowerment Equation explores the world of applied math, data science, and econometrics, showing how these fields empower data-driven decision-making. We break down complex concepts and demonstrate how to apply them in real-world scenarios, helping you unlock the power of numbers to solve problems and drive innovation.
 
-🎙️ Listen to the NEW episode Data-Driven Decision-Making here !
+🎙️ Listen to the NEW episode The Power of Saving: Building Wealth One Dollar at a Time here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
