@@ -125,7 +125,7 @@ Empowering the next generation through programming, math, innovation & more.
 The Everyday Equation: How Math Shapes Our Lives takes you on a journey through the beauty of mathematics, algorithms, and computer science—showing how they shape our world in ways you never imagined. From nature’s stunning patterns to the power of AI and the technology we use every day, this book uncovers the elegance and impact of math in the systems that drive our lives.
 
 
-<strong>Curious? Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
+<strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
 <strong>📝 My scientific papers</strong>
 
@@ -133,15 +133,13 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 <h3>• Empowerment Equation podcast</h3>
 
-Empowerment Equation explores the world of applied math, data science, and econometrics, showing how these fields empower data-driven decision-making. We break down complex concepts and demonstrate how to apply them in real-world scenarios, helping you unlock the power of numbers to solve problems and drive innovation.
+Empowerment Equation explores the world of applied math, data science, and econometrics, finance, showing how these fields empower data-driven decision-making. We break down complex concepts and demonstrate how to apply them in real-world scenarios, helping you unlock the power of numbers to solve problems and drive innovation.
 
 🎙️ Listen to the NEW episode The Power of Saving: Building Wealth One Dollar at a Time here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
 <h3>• Bytes & Bucks 📈</h3>
-
-Welcome to Bytes & Bucks – where math, finance, software, and data science intersect to unlock powerful insights. Stay ahead with analysis, practical strategies, and deep dives into the numbers that drive innovation. 
 
 [![WordPress](https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge)](https://bytesandbucks4.wordpress.com)
 
