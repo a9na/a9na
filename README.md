@@ -77,9 +77,12 @@ Workflow:
 
 <h2>Languages</h2>
 
-Croatian 🇭🇷 (Native) · English 🇬🇧 (C2 Certified) · German 🇩🇪 · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿 · Korean 🇰🇷
+Croatian 🇭🇷 (Native) · English 🇬🇧 (C2 Certified) · German 🇩🇪 · Italian 🇮🇹 · Spanish 🇪🇸 · Czech 🇨🇿 · Korean 🇰🇷 · Japanese 🇯🇵
 
 </div>
+
+*How do i know so many?
+I've been surrounded by different languages and cultures ever since I was born and I pick them up really quickly.*
 
 
 
