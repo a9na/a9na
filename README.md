@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-Interested in Software Development, Data Science, Mathematics, Statistics, Machine Learning, Deep Learning and Computer Vision. Some of the fields that also interest me are medicine and finance.
+Interested in Software Development, Data Science, Mathematics, Statistics, Machine Learning, Deep Learning and Computer Vision. Fields that also interest me are finance, trading and economics.
 <!--  
 <div>
 <h2 align="left">
