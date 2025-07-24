@@ -136,7 +136,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 <h3>• Empowerment Equation podcast</h3>
 
-Empowerment Equation explores the world of applied math, data science, and econometrics, finance, showing how these fields empower data-driven decision-making. We break down complex concepts and demonstrate how to apply them in real-world scenarios, helping you unlock the power of numbers to solve problems and drive innovation.
+Empowerment Equation explores what's the equation behind success.
 
 🎙️ Listen to the NEW episode The Power of Saving: Building Wealth One Dollar at a Time here !
 
@@ -146,7 +146,7 @@ Empowerment Equation explores the world of applied math, data science, and econo
 
 [![WordPress](https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge)](https://bytesandbucks4.wordpress.com)
 
-🔔 Subscribe to the newsletter here (a blend of math, finance and software and data science insights):
+🔔 Subscribe to the newsletter here (finance insights):
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
