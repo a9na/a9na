@@ -131,7 +131,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 <strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
-<strong>✍️ Read my articles on Medium and dev.to</strong>
+<strong>✍️ Articles on Medium and dev.to</strong>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
