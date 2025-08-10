@@ -81,7 +81,7 @@ Croatian 🇭🇷 (Native) · English 🇬🇧 (C2 Certified) · German 🇩🇪
 
 </div>
 
-*How do i know so many?
+*How do I know so many?
 I've been surrounded by different languages and cultures ever since I was born and I pick them up really quickly.*
 
 
@@ -112,6 +112,7 @@ and much more!-->
 Empowering the next generation through programming, math, innovation & more.
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bright-labs)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@bright_labs)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 [![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
 
@@ -130,6 +131,11 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 <strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
 
+<strong>✍️ Read my articles on Medium and dev.to</strong>
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
+
 <strong>📝 My scientific papers</strong>
 
 🏗️
@@ -138,7 +144,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 Empowerment Equation explores what's the equation behind success.
 
-🎙️ Listen to the NEW episode The Power of Saving: Building Wealth One Dollar at a Time here !
+🎙️ Listen to the NEW episode 'Blueprints and Breakthroughs: The Equation of Dr. Ayanna Howard' here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
@@ -149,11 +155,6 @@ Empowerment Equation explores what's the equation behind success.
 🔔 Subscribe to the newsletter here (finance insights):
 
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
-
-<h3>Read my articles on Medium and dev.to</h3>
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hobbies</h3>
 
