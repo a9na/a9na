@@ -138,7 +138,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 <strong>📝 My scientific papers</strong>
 
-🏗️
+Fiscus: A Finance Management Application (Link for reading coming soon!)
 
 <h3>• Empowerment Equation podcast</h3>
 
