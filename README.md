@@ -144,7 +144,7 @@ Fiscus: A Finance Management Application (Link for reading coming soon!)
 
 Empowerment Equation explores what's the equation behind success.
 
-🎙️ Listen to the NEW episode 'Blueprints and Breakthroughs: The Equation of Dr. Ayanna Howard' here !
+🎙️ Listen to the NEW episode 'The Success Equation of Dr. Maya Chen' here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
