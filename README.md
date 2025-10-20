@@ -136,7 +136,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 <strong>📝 My scientific papers</strong>
 
-Fiscus: A Finance Management Application (Link for reading coming soon!)
+[Fiscus: A Finance Management Application](https://repozitorij.etfos.hr/islandora/object/etfos%3A5835)
 
 <h3>• Empowerment Equation podcast</h3>
 
