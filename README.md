@@ -142,7 +142,7 @@ The Everyday Equation: How Math Shapes Our Lives takes you on a journey through 
 
 Empowerment Equation explores what's the equation behind success.
 
-🎙️ Listen to the NEW episode 'The Success Equation of Dr. Christine Darden: Breaking Barriers in the Sky and Beyond' here !
+🎙️ Listen to the NEW episode 'How to organize your life for success' here !
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
