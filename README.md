@@ -102,7 +102,7 @@ I've been surrounded by different languages and cultures ever since I was born a
 
 and much more!-->
 
-<h2>Some of my projects</h2>
+<h2>My projects</h2>
 
 <h3>• Bright Labs 🧪</h3> 
 
