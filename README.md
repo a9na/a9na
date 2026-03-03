@@ -145,13 +145,6 @@ Empowerment Equation explores what's the equation behind success.
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
-<h3>• Bytes & Bucks 📈</h3>
-
-[![WordPress](https://img.shields.io/badge/Website-%23121011.svg?style=for-the-badge)](https://bytesandbucks4.wordpress.com)
-
-🔔 Subscribe to the newsletter here (finance insights):
-
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://ananovkovic.substack.com/)
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hobbies</h3>
 
