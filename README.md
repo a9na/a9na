@@ -78,10 +78,6 @@ Croatian 🇭🇷 (Native) · English 🇬🇧 (C2 Certified) · German 🇩🇪
 
 </div>
 
-*How do I know so many?
-I've been surrounded by different languages and cultures ever since I was born and I pick them up really quickly.*
-
-
 
 <!--<h2>My Projects</h2>
 
@@ -126,7 +122,9 @@ Empowering the next generation through programming, math, innovation & more.
 The Everyday Equation: How Math Shapes Our Lives takes you on a journey through the beauty of mathematics, algorithms, and computer science—showing how they shape our world in ways you never imagined. From nature’s stunning patterns to the power of AI and the technology we use every day, this book uncovers the elegance and impact of math in the systems that drive our lives.
 
 
-<strong>Read the first three chapters <a href="https://purple-anitra-57.tiiny.site/" target="_blank">here</a>!</strong> 😄
+<strong>Get it <a href="https://www.amazon.com/Everyday-Equation-math-shapes-lives-ebook/dp/B0GH2WW9QY" target="_blank">here</a>!</strong> 😄
+
+
 
 <strong>✍️ Articles on Medium and dev.to</strong>
 
