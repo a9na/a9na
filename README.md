@@ -9,6 +9,10 @@
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na)
   <a href="mailto:anaiscoding@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
+  [![QuantConnect](https://img.shields.io/badge/QuantConnect-FF6600?style=for-the-badge&logo=quant&logoColor=white)](https://www.quantconnect.com/u/ana-novkovic)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
 </a>
 
 Interested in Software Development, Data Science, Mathematics, Statistics, Machine Learning, Deep Learning and Computer Vision. Fields that also interest me are finance, trading, economics and cyber security.
@@ -63,17 +67,6 @@ Empowerment Equation explores what's the equation behind success.
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
 
-
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Some of my other accounts  </h3>
-
-<div align="left">  
-
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
-  [![QuantConnect](https://img.shields.io/badge/QuantConnect-FF6600?style=for-the-badge&logo=quant&logoColor=white)](https://www.quantconnect.com/u/ana-novkovic)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
-  
-</div>
 </div> 
 <div>
  
