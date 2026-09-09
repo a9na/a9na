@@ -15,8 +15,6 @@
   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
 </a>
 
-Interested in Software Development, Data Science, Mathematics, Statistics, Machine Learning, Deep Learning and Computer Vision. Fields that also interest me are finance, trading, economics and cyber security.
-
 
 
 <h2>Languages</h2>
