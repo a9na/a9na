@@ -5,15 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&width=435&lines=Hello%2C+I'm+Ana!)](https://git.io/typing-svg)
 </div>
 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-novkovic/)
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a9na)
-  <a href="mailto:anaiscoding@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/a9na/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ananovkovic)
-  [![QuantConnect](https://img.shields.io/badge/QuantConnect-FF6600?style=for-the-badge&logo=quant&logoColor=white)](https://www.quantconnect.com/u/ana-novkovic)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
-</a>
+[linkedin](https://www.linkedin.com/in/ana-novkovic/) • [github](https://github.com/a9na) • [leetcode](https://leetcode.com/u/a9na/) • [kaggle](https://www.kaggle.com/ananovkovic) • [stack overflow](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
 
 
 
