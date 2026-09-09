@@ -1,9 +1,5 @@
  <div align ="left">
- 
- <div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&width=435&lines=Hello%2C+I'm+Ana!)](https://git.io/typing-svg)
-</div>
 
 [linkedin](https://www.linkedin.com/in/ana-novkovic/) • [github](https://github.com/a9na) • [leetcode](https://leetcode.com/u/a9na/) • [kaggle](https://www.kaggle.com/ananovkovic) • [stack overflow](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile)
 
