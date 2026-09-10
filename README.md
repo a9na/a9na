@@ -7,7 +7,8 @@
 
 </div>
 
-###**Some of my projects**
+
+### **Some of my projects**
 
 <h3>• Bright Labs 🧪</h3> 
 
