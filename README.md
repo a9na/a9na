@@ -5,10 +5,6 @@
 
 
 
-<h2>Languages</h2>
-
-Croatian 🇭🇷 (Native) · English 🇬🇧 (C2 Certified) · German 🇩🇪 · Italian 🇮🇹 · Spanish 🇪🇸 · ASL 🤟 
-
 </div>
 
 <h2>My projects</h2>
@@ -50,5 +46,8 @@ Empowerment Equation explores what's the equation behind success.
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
 
-
+### **Spoken Languages**
+* 🇭🇷 **Croatian** (Native)
+* 🇬🇧 **English** (Full professional proficiency)
+* 🇩🇪 **German** • 🇮🇹 **Italian** • 🇪🇸 **Spanish** • 🤟 **ASL**
 
