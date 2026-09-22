@@ -20,16 +20,6 @@ Empowering the next generation through programming, math, innovation & more.
 [![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
 
 
-
-
-<h3>• Author 📚</h3>
-
-<strong>🧮 The Everyday Equation: How Math Shapes Our Lives</strong>
-
-
-<strong>Get it <a href="https://www.amazon.com/Everyday-Equation-math-shapes-lives-ebook/dp/B0GH2WW9QY" target="_blank">here</a>!</strong> 
-
-
 <strong>✍️ Articles on Medium and dev.to</strong>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
