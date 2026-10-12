@@ -1,7 +1,7 @@
  <div align ="left">
 
 
-[linkedin](https://www.linkedin.com/in/ana-novkovic/) • [leetcode](https://leetcode.com/u/a9na/) • [kaggle](https://www.kaggle.com/ananovkovic) • [stack overflow](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile) • [goodreads](https://goodreads.com/ana-novkovic)
+[linkedin](https://www.linkedin.com/in/ana-novkovic/) • [leetcode](https://leetcode.com/u/a9na/) • [kaggle](https://www.kaggle.com/ananovkovic) • [stack overflow](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile) 
 
 
 
@@ -28,4 +28,7 @@ Empowering the next generation through programming, math, innovation & more.
 * 🇭🇷 **Croatian** (Native)
 * 🇬🇧 **English** (Full professional proficiency)
 * 🇩🇪 **German** • 🇮🇹 **Italian** • 🇪🇸 **Spanish** • 🤟 **ASL**
+
+### **Currently reading**
+[goodreads](https://goodreads.com/ana-novkovic)
 
