@@ -17,7 +17,6 @@ Empowering the next generation through programming, math, innovation & more.
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bright-labs)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@bright_labs)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
-[![Beacons.ai](https://img.shields.io/badge/beacons.ai-000?style=for-the-badge&logo=beacons.ai&logoColor=white)](https://beacons.ai/brightlabs)
 
 
 <strong>✍️ Articles on Medium and dev.to</strong>
