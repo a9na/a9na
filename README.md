@@ -25,18 +25,6 @@ Empowering the next generation through programming, math, innovation & more.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anaiscoding)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anaiscoding) 
 
-<strong>📝 My scientific papers</strong>
-
-[Fiscus: A Finance Management Application](https://repozitorij.etfos.hr/islandora/object/etfos%3A5835)
-
-<h3>• Empowerment Equation podcast</h3>
-
-Empowerment Equation explores what's the equation behind success.
-
-🎙️ Listen to the NEW episode here !
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4RotoQy2gCi7RMnd8CjHTF?si=b3yJPh_HTai_Jd_tOuXvpA)
-
 ### **Spoken Languages**
 * 🇭🇷 **Croatian** (Native)
 * 🇬🇧 **English** (Full professional proficiency)
