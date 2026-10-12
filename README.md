@@ -1,5 +1,7 @@
 [linkedin](https://www.linkedin.com/in/ana-novkovic/) • [leetcode](https://leetcode.com/u/a9na/) • [kaggle](https://www.kaggle.com/ananovkovic) • [stack overflow](https://stackoverflow.com/users/27326983/ana-novkovi%c4%87?tab=profile) 
 
+### **Projects**
+
 ### **Teaching**
 
 - Bright Labs
