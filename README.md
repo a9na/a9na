@@ -8,6 +8,8 @@
 
 [youtube](https://www.youtube.com/@bright-labs) • [tiktok](https://www.tiktok.com/@bright_labs) • [udemy](https://www.udemy.com/course/draft/6311169/?instructorPreviewMode=guest)
 
+### **Writing**
+
 - Articles on Medium and dev.to
 
 [medium](https://medium.com/@anaiscoding) • [dev.to](https://dev.to/anaiscoding) 
