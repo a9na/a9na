@@ -19,6 +19,7 @@
 * 🇬🇧 **English** (Full professional proficiency)
 * 🇩🇪 **German** • 🇮🇹 **Italian** • 🇪🇸 **Spanish** • 🤟 **ASL**
 
-### **📚 Currently reading**
-[goodreads](https://goodreads.com/ana-novkovic)
+### **After-hours**
+[goodreads](https://goodreads.com/ana-novkovic) •
+[strava](https://www.strava.com/athletes/113486741)
 
